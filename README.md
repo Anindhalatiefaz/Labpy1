@@ -36,3 +36,6 @@ KELAS : TI.22.A.3
 ![Screenshot (15)](https://user-images.githubusercontent.com/115516800/195778301-651bfb03-6b27-48e1-9861-e6fc23e4a2c3.png)
 
 10. Buka halaman github.com maka akan terlihat pada halaman tersebut 
+
+![Screenshot (17)](https://user-images.githubusercontent.com/115516800/195779040-e718e681-7f87-4cf7-abe9-3804fa339f40.png)
+
